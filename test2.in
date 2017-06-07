@@ -1,0 +1,5 @@
+degree      0
+coeffs      1.0
+interval    0.0 10.0
+integration 100
+

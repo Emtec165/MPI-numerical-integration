@@ -1,0 +1,41 @@
+
+test1a.in
+numerical  = 20.343131802963657861
+analytical = 20.343071902056276912
+
+test1b.in
+numerical  = 20.343311504074161888
+analytical = 20.343071902056276912
+
+test1c.in
+numerical  = 20.344030284343329384
+analytical = 20.343071902056276912
+
+test2.in
+numerical  = 10
+analytical = 10
+
+test3.in
+numerical  = -146.67037037037027858
+analytical = -146.66666666666665719
+
+test4.in
+numerical  = 181500
+analytical = 181500
+
+test5a.in
+numerical  = 20010.000037037079892
+analytical = 20010
+
+test5b.in
+numerical  = 20010.003703703670908
+analytical = 20010
+
+test5c.in
+numerical  = 20010.370369958847732
+analytical = 20010
+
+test5d.in
+numerical  = 20047.032921810692642
+analytical = 20010
+
